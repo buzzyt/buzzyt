@@ -14,7 +14,7 @@ const allowedOrigins = [
   'https://crazyduck.ifree.page',
   'https://wwbellcanada.infy.click',
   'https://sunny-pastelito-8843b7.netlify.app',
-  'https://bellightning.talk4fun.net',
+  'https://darkcat.infy.click',
   'https://jhvnb.vercel.app',
    // add all your trusted frontends here
 ];
