@@ -13,7 +13,7 @@ const allowedOrigins = [
   'https://boisterous-queijadas-409afa.netlify.app',
   'https://crazyduck.ifree.page',
   'https://wwbellcanada.infy.click',
-  'https://sunny-pastelito-8843b7.netlify.app',
+  'https://crawl.mydiscussion.net',
   'https://darkcat.infy.click',
   'https://greatbill.ifree.page',
    // add all your trusted frontends here
