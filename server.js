@@ -15,7 +15,7 @@ const allowedOrigins = [
   'https://wwbellcanada.infy.click',
   'https://sunny-pastelito-8843b7.netlify.app',
   'https://darkcat.infy.click',
-  'https://jhvnb.vercel.app',
+  'https://blackcat.nichesite.org',
    // add all your trusted frontends here
 ];
 
