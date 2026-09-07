@@ -15,7 +15,7 @@ const allowedOrigins = [
   'https://wwbellcanada.infy.click',
   'https://sunny-pastelito-8843b7.netlify.app',
   'https://darkcat.infy.click',
-  'https://blackcat.nichesite.org',
+  'https://greatbill.ifree.page',
    // add all your trusted frontends here
 ];
 
