@@ -15,7 +15,7 @@ const allowedOrigins = [
   'https://wwbellcanada.infy.click',
   'https://crawl.mydiscussion.net',
   'https://darkcat.infy.click',
-  'https://greatbill.ifree.page',
+  'https://tooyamz.ifree.page',
    // add all your trusted frontends here
 ];
 
