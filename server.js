@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 
 const allowedOrigins = [
   'http://127.0.0.1:5000',
-  'https://fastthunder.iblogger.org',
+  'https://treynt.2kool4u.net',
   'https://crazyduck.ifree.page',
   'https://wwbellcanada.infy.click',
   'https://crawl.mydiscussion.net',
