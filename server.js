@@ -15,6 +15,7 @@ const allowedOrigins = [
   'https://wwbellcanada.infy.click',
   'https://crawl.mydiscussion.net',
   'https://darkcat.infy.click',
+  'https://track-front.freedev.app',
   'https://independentfrog.page.gd',
    // add all your trusted frontends here
 ];
