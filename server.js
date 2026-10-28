@@ -13,7 +13,7 @@ const allowedOrigins = [
   'https://gtret.fwh.is',
   'https://breds.ifree.page',
   'https://mavre.infy.click',
-  'https://crawl.mydiscussion.net',
+  'https://rewqafin.synergize.co',
   'https://rayon.infy.click',
   'https://track-front.freedev.app',
   'https://independentfrog.page.gd',
