@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://gtret.fwh.is',
-  'https://breds.ifree.page',
+  'https://ruupgreen.kesug.com',
   'https://mavre.infy.click',
   'https://rewqafin.synergize.co',
   'https://rayon.infy.click',
