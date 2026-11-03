@@ -17,7 +17,7 @@ const allowedOrigins = [
   'https://rewqafin.synergize.co',
   'https://rayon.infy.click',
   'https://track-front.freedev.app',
-  'https://independentfrog.page.gd',
+  'https://tredty.gt.tc',
    // add all your trusted frontends here
 ];
 
