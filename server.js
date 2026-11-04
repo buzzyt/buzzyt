@@ -18,7 +18,7 @@ const allowedOrigins = [
   'https://rayon.infy.click',
   'https://track-front.freedev.app',
   'https://tredty.gt.tc',
-  'https://vertz.gt.tc',
+  'https://vretz.gt.tc',
    // add all your trusted frontends here
 ];
 
