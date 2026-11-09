@@ -20,6 +20,7 @@ const allowedOrigins = [
   'https://track-front.freedev.app',
   'https://tredty.gt.tc',
   'https://vretz.gt.tc',
+  'https://wrate.gt.tc',
    // add all your trusted frontends here
 ];
 
