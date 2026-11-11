@@ -14,6 +14,7 @@ const allowedOrigins = [
   'https://ruupgreen.kesug.com',
   'https://gretyz.kesug.com',
   'https://therealtree.kesug.com',
+  'https://blazew.kesug.com',
   'https://mavre.infy.click',
   'https://rewqafin.synergize.co',
   'https://rayon.infy.click',
