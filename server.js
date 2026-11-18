@@ -22,6 +22,7 @@ const allowedOrigins = [
   'https://tredty.gt.tc',
   'https://draq.gt.tc',
   'https://vretz.gt.tc',
+  'https://yertyz.gt.tc',
   'https://wrate.gt.tc',
    // add all your trusted frontends here
 ];
